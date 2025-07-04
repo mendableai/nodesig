@@ -1,0 +1,13 @@
+[package]
+name = "nodesig"
+version = "1.0.0"
+edition = "2024"
+authors = ["Gergő Móricz <mogery@firecrawl.com>"]
+license = "AGPL-3.0"
+
+[dependencies]
+kuchikiki = "0.8.2"
+base64 = "0.22.1"
+sha2 = "0.10.8"
+hex = "0.4.3"
+rand = "0.9.1"
